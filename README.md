@@ -1,16 +1,22 @@
-## Hi there 👋
+<p align="center">
+  <img src="./banner-reactor.gif" alt="Marco Medina. Construyendo el siguiente nivel. Interfaz animada de reactor con anillos giratorios y circuitos luminosos." width="100%" />
+</p>
 
-<!--
-**marcomedinavalera64-sys/marcomedinavalera64-sys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="#detrás-del-reactor">Sobre mí</a> · <a href="#proyectos">Proyectos</a> · <a href="./banner-reactor.png">Banner sin animación</a>
+</p>
 
-Here are some ideas to get you started:
+## Detrás del reactor
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Soy **Marco Medina**. Bienvenido a mi laboratorio digital: un espacio para compartir proyectos, ideas y aprendizajes.
+
+**Aprender. Crear. Evolucionar.**
+
+<!-- Puedes añadir aquí tus estudios, intereses y tecnologías cuando quieras. -->
+
+## Proyectos
+
+Explora mis repositorios en la pestaña **Repositories** de este perfil.
+
+<!-- Cuando tengas proyectos que quieras destacar, añade sus enlaces aquí. -->
+<!-- También puedes añadir enlaces a tu portafolio y redes profesionales. -->
